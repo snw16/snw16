@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sinuo Wang</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snw16&label=Profile%20views&color=0e75b6&style=flat" alt="snw16" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snw16" alt="snw16" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://snw16.github.io/portfolio/](https://snw16.github.io/portfolio/)
